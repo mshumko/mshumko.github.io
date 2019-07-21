@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Astrophysics, University of California, Santa Cruz, 2014 [thesis](../files/senior_thesis.pdf)
+* M.S. in Physics, Montana State University, 2016
+* Ph.D in Physics, Montana State University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Space Sciences and Engineering Laboratory \| September 2014 - Present \| Graduate Research Assistant
+  * Command and operate FIREBIRD-II CubeSats
+  * Organize Precipitation Workshop in 2019
+  * Advised an REU and undergraduate students
+  * Aviser: Dr. John Sample
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Los Alamos National Laboratory \| June - July 2018 \| Summer Student
+  * Performed a sensitivity analysis of the Magnetic Electron Ion Spectrometer using Markov Chain Monte Carlo
+  * Converted modeleted flux using geant sensitivity curves
+  * Mentors: Brian Larsen and Phill Fernandez 
+  * Report found here
+
+* The Aerospace Corportation \| June - August 2017 \| Summer Intern
+  * Calculated when pairs of spacecraft are near the same Earth's magnetic field line (magnetic conjunction)
+  * Found evidence of microbursts inside the radiation belts
+  * Applied the theory of quasi-linear diffusion to model the transport of electrons in phase space.
+  * Mentors: Drew Turner and Brian Larsen
+  * Paper can be found here
   
 Skills
 ======
@@ -50,9 +59,21 @@ Talks
   
 Teaching
 ======
+* Teaching Assistant, Physics 220, Intro to Physics I (w/ calculus), Spring 2016.
+* Instructor, Physics 201, Physics by Inquiry, Fall 2015.
+* Teaching Assistant, Physics 207, Intro to Physics II, Spring 2015, Summer 2015.
+* Teaching Assistant, Physics 205, Intro to Physics I, Fall 2014.
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+* NASA Earth and Space Sciences Fellowship, 2018, 2019.
+* Vela Fellowship, 2018.
+* The Best Inner Magnetosphere Poster, GEM Workshop, 2016.
+* Montana Space Grant Consortium (MSGC) Fellowship, 2015 - 2016.
   
 Service and leadership
 ======
