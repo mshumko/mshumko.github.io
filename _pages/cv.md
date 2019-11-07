@@ -13,15 +13,15 @@ Education
 ======
 * B.S. in Astrophysics, University of California, Santa Cruz, 2014 [thesis](../files/senior_thesis.pdf)
 * M.S. in Physics, Montana State University, 2016
-* Ph.D in Physics, Montana State University, 2019 (expected)
+* Ph.D in Physics, Montana State University, 2019
 
 Work experience
 ======
 * Space Sciences and Engineering Laboratory \| September 2014 - Present \| Graduate Research Assistant
-  * Command and operate FIREBIRD-II CubeSats
+  * Command and operate FIREBIRD-II CubeSats. Developed the data pipeline to get the data from FIREBIRD to the internet in less than 24 hours.
+  * Analyze time series data from the FIREBIRD-II and AC6 CubeSat missions 
   * Organize Precipitation Workshop in 2019
   * Advised an REU and undergraduate students
-  * Aviser: Dr. John Sample
 
 * Los Alamos National Laboratory \| June - July 2018 \| Summer Student
   * Performed a sensitivity analysis of the Magnetic Electron Ion Spectrometer using Markov Chain Monte Carlo
