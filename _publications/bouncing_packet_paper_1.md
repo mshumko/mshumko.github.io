@@ -1,7 +1,7 @@
 ---
 title: "Microburst Scale Size Derived From Multiple Bounces of a Microburst Simultaneously Observed With the FIREBIRD-II CubeSats"
 collection: publications
-permalink: /publication/2018-06-29-paper-1
+permalink: /publication/bouncing_packet_paper_1
 excerpt: 'Here I analyzed a unique observation of a bouncing packet microburst observed by FIREBIRD-II and calculate the microburst size in low Earth orbit.'
 date: 2018-06-29
 venue: 'Geophysical Research Letters'
