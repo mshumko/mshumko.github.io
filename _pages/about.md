@@ -25,4 +25,4 @@ A unique advantage of working at the Space Sciences and Engineering Laboratory (
 *Example animation of Bayesian linear regression using the Metropoplis Markov Chain Monte Carlo (MCMC) sampler. Red lines show the "true" line and blue dots are the observations from the "true" line assuming Gaussian noise. Each frame shows an iteration of the MCMC, and the final frame shows the final posteror histogram. Further details are in the [Reserach Section](www.stuff.com)*
 
 ## Athletics
-Include Strava app here.
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1782724/activity-summary/cd29e2ae99bf84e71d1d33495b23b3f3aa636497'></iframe>
