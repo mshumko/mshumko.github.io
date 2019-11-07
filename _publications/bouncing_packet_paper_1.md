@@ -9,4 +9,4 @@ paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078925
 citation: 'Shumko, M., Sample, J., Johnson, A.,Blake, J. B., Crew, A. B., Spence, H. E., et al. (2018). Microburst scale size derived from multiple bounces of a microburst simultaneously observed with the FIREBIRD-II CubeSats. Geophysical Research Letters, 45. https://doi.org/10.1029/2018GL078925'
 ---
 
-[Download paper here](http://academicpages.github.io/files/2018-Shumko,Sample,Johnson-GRL-Microburst scale size derived from multiple bounces of a microburst simultaneously observed with the FIREBIRD II CubeSats.pdf)
+[Download paper here](http://academicpages.github.io/files/2018_shumko_firebird_microburst_paper.pdf)
