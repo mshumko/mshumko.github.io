@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the physics department at Montana State University (MSU) in Bozeman, Montana. I am working with Dr. John Sample to study energetic particle precipitation into Earth's atmosphere. The central focus of my disseration is one type of particle precipitation called microbursts, a sub-second intense impulse of electrons obseved in low Earth orbit, upper atmosphere, and recently inside the radiation belts. My main interests include analyzing in-situ energetic particle data, modeling to understand the data, and understand & develop particle instruments.
+I just earned my PhD in physics from Montana State University (MSU) in Bozeman, Montana. I am currently working with Dr. John Sample to study energetic particle precipitation into Earth's atmosphere. The central focus of my research is a type of particle precipitation into the atmopshere called microbursts, a sub-second intense impulse of electrons obseved in low Earth orbit, upper atmosphere, and recently inside the radiation belts. Microbursts have been estimated to deplete the outer radiation belt electrons as quickly as a few hours, and may affect atmospheric chemistry.
+
+On a daily basis, I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-II CubeSats, and data from various other missions such as NASA's Van Allen Probes and AeroCube-6 missions. I mostly do data analysis, and modeling to connect observations to reality.
 
 ## Current Projects
 A unique advantage of working at the Space Sciences and Engineering Laboratory (SSEL) is that we have and are building space hardware e.g. CubeSats, balloon payloads, and sounding rocket payloads. One mission that my labmate Arlo Johnson and I have been commanding and operating are the pair of FIREBIRD-II CubeSats that are orbiting in low Earth orbit. FIREBIRD-II were launched on January 31st, 2015 and are operational to this day. They are equiped with silicon solid state detectors that are sensitive to electrons in the range of 200 - 1000 kilo electron Volts (keV). 
