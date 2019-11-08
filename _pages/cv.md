@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Space Sciences and Engineering Laboratory \| September 2014 - Present \| Graduate Research Assistant & Postdoctoral researcher
+* MSU's Space Sciences and Engineering Laboratory \| September 2014 - Present \| Graduate Research Assistant & Postdoctoral researcher
   * Command and operate FIREBIRD-II CubeSats. Developed the data pipeline to get the data from FIREBIRD to the [internet](http://solar.physics.montana.edu/FIREBIRD_II/) in less than 24 hours
   * Analyzed time series data from the FIREBIRD-II and AC6 CubeSat missions to study microbursts (these analyses lead to two publications described in the [Publication Section](/publications/))
   * Developed a Python wrapper for [IRBEM-Lib](https://sourceforge.net/p/irbem/code/HEAD/tree/trunk/python/)
@@ -31,7 +31,7 @@ Work experience
   * Converted modeleted flux using geant sensitivity curves
   * Documented my work in a [report](https://www.lanl.gov/projects/national-security-education-center/space-earth-center/space-weather-school/_assets/docs/swx-report-2018.pdf)
 
-* The Aerospace Corportation \| June - August 2017 \| Summer Intern
+* The Aerospace Corporation \| June - August 2017 \| Summer Internship
   * Systematically calculated when pairs of spacecraft are near the same Earth's magnetic field line (magnetic conjunction)
   * Found evidence of microbursts inside the radiation belts
   * Applied the theory of quasi-linear diffusion to model the transport of electrons in phase space

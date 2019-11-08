@@ -8,27 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I just earned my PhD in physics from Montana State University (MSU) in Bozeman, Montana. I am currently working with Dr. John Sample to study energetic particle precipitation into Earth's atmosphere. The central focus of my research is a type of particle precipitation into the atmopshere called microbursts, a sub-second intense impulse of electrons obseved in low Earth orbit, upper atmosphere, and recently inside the radiation belts. Microbursts have been estimated to deplete the outer radiation belt electrons as quickly as a few hours, and may affect atmospheric chemistry.
+I've just earned my PhD in physics from Montana State University (MSU) in Bozeman, Montana. I am currently working with Dr. John Sample to study energetic particle precipitation into Earth's atmosphere. The central focus of my research is a type of particle precipitation into the atmopshere called microbursts, a sub-second intense impulse of electrons obseved in low Earth orbit, upper atmosphere, and recently inside the radiation belts. Microbursts have been estimated to deplete the outer radiation belt electrons as quickly as a few hours, and may affect atmospheric chemistry. My work on microbursts is highlighted in the [Publications](/publications/) section.
 
-On a daily basis, I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-II CubeSats, and data from various other missions such as NASA's Van Allen Probes and AeroCube-6 missions. I mostly do data analysis, and modeling to connect observations to reality.
+I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-II CubeSats, and data from various other missions such as NASA's Van Allen Probes and AeroCube-6 missions. I mostly do data analysis, and modeling to link observations to our best guess at reality. More specifics describing my current work and work-related interests are in the [Reserach](/research/) section.
 
-## Current Projects
-A unique advantage of working at the Space Sciences and Engineering Laboratory (SSEL) is that we have and are building space hardware e.g. CubeSats, balloon payloads, and sounding rocket payloads. One mission that my labmate Arlo Johnson and I have been commanding and operating are the pair of FIREBIRD-II CubeSats that are orbiting in low Earth orbit. FIREBIRD-II were launched on January 31st, 2015 and are operational to this day. They are equiped with silicon solid state detectors that are sensitive to electrons in the range of 200 - 1000 kilo electron Volts (keV). 
+## Running
 
-<img src="../images/1_00_firebird_hires.png" alt="Drawing" style="width: 250px;"/>
-<img src="../images/firebird_pose_v2.jpg" alt="Drawing" style="width: 250px;"/>
-
-*The twin FIREBIRD-II CubeSats on the bench before launch*
-
-## Research Interests
-
-<img src="../images/linear_regression_from_scratch.gif" alt="Drawing" style="width: 500px;"/>
-
-*Example animation of Bayesian linear regression using the Metropoplis Markov Chain Monte Carlo (MCMC) sampler. Red lines show the "true" line and blue dots are the observations from the "true" line assuming Gaussian noise. Each frame shows an iteration of the MCMC, and the final frame shows the final posteror histogram. Further details are in the [Reserach Section](www.stuff.com)*
-
-## Athletics
-
-### Running personal records (PRs)
+### Personal records (PRs)
 
 | Distance             | Race  |    Time   |
 | ---------------- | --------- | --------- |
