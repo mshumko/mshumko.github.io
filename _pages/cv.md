@@ -23,7 +23,7 @@ Work experience
   * Developed a Python wrapper for [IRBEM-Lib](https://sourceforge.net/p/irbem/code/HEAD/tree/trunk/python/)
   * Organized The 2019 Particle Precipitation Workshop at The University of New Hampshire
   * Earned a Technician Class ham radio license
-  * Co-director of [The Rocky Mountain Data Science](rmds.tech) club
+  * Co-director of [The Rocky Mountain Data Science](https://rmds.tech) club
   * Advised an REU and undergraduate students
 
 * Los Alamos National Laboratory \| June - July 2018 \| Summer Student
