@@ -75,6 +75,4 @@ Awards
 * The Best Inner Magnetosphere Poster, GEM Workshop, 2016.
 * Montana Space Grant Consortium (MSGC) Fellowship, 2015 - 2016.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Download full CV here](http://mshumko.github.io/files/general_resume.pdf)
