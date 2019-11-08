@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* Space Sciences and Engineering Laboratory \| September 2014 - Present \| Graduate Research Assistant
+* Space Sciences and Engineering Laboratory \| September 2014 - Present \| Graduate Research Assistant & Postdoctoral researcher
   * Command and operate FIREBIRD-II CubeSats. Developed the data pipeline to get the data from FIREBIRD to the internet in less than 24 hours.
-  * Analyze time series data from the FIREBIRD-II and AC6 CubeSat missions 
+  * Analyze time series data from the FIREBIRD-II and AC6 CubeSat missions to study microbursts (see the [Publication Section](/research/)*)
   * Organize Precipitation Workshop in 2019
   * Advised an REU and undergraduate students
 
