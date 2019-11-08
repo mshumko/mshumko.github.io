@@ -21,6 +21,7 @@ Work experience
   * Command and operate FIREBIRD-II CubeSats. Developed the data pipeline to get the data from FIREBIRD to the [internet](http://solar.physics.montana.edu/FIREBIRD_II/) in less than 24 hours
   * Analyzed time series data from the FIREBIRD-II and AC6 CubeSat missions to study microbursts (these analyses lead to two publications described in the [Publication Section](/publications/))
   * Developed a Python wrapper for [IRBEM-Lib](https://sourceforge.net/p/irbem/code/HEAD/tree/trunk/python/)
+  * Served on two NASA review panels
   * Organized The 2019 Particle Precipitation Workshop at The University of New Hampshire
   * Earned a Technician Class ham radio license
   * Co-director of [The Rocky Mountain Data Science](https://rmds.tech) club
@@ -40,23 +41,13 @@ Work experience
 Skills
 ======
 * Operating systems
-  * Windows
-  * Linux 
-  * Windows Subsystem For Linux
+  * Windows, Linux, and Windows Subsystem For Linux
 * Programming languages
-  * Python
-  * C
-  * Assembly
+  * Python,C, and Assembly
 * Programming tools
-  * git
-  * SSH
-  * Samba Share
-  * Visual Studios Code
-  * LaTeX
-  * Inkscape
+  * git, SSH, Samba Share, Visual Studios Code, LaTeX, and Inkscape
 * Spoken languages
-  * English
-  * Russian
+  * English and Russian
 
 Publications
 ======
