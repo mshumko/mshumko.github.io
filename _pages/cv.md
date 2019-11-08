@@ -33,7 +33,7 @@ Work experience
   * Calculated when pairs of spacecraft are near the same Earth's magnetic field line (magnetic conjunction)
   * Found evidence of microbursts inside the radiation belts
   * Applied the theory of quasi-linear diffusion to model the transport of electrons in phase space.
-  * Mentors: Drew Turner and Brian Larsen
+  * Mentors: Drew Turner
   * Paper can be found here
   
 Skills
