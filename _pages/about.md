@@ -30,13 +30,13 @@ A unique advantage of working at the Space Sciences and Engineering Laboratory (
 
 ### Running personal records (PRs)
 
-| Race             | Distance  |           Time                                                   |
-| --------         | ------ | ------------------------------------------------------------ |
-| 1 mile    | 1 mile   | Description of the item in the list                          |
-| 5k    | 5 k   | Description of the item in the list                          |
-| [Doe Doe](#)     | 10k   | Description of the item in the list                          |
-| [Doe Doe](#)     | half-marathon   | Description of the item in the list                          |
-| [Doe Doe](#)     | marathon   | Description of the item in the list                          |
+| Race             | Distance  |    Time   |
+| ---------------- | --------- | --------- |
+| 1 mile    | High School Track  | 00:05:21  |
+| 5k  |  2017 AGU Fall Meeting   | 00:19:20   |
+| 10k | 2019 Run To The Pub   | 00:40:50  |
+| Half-marathon | 2018 Run To The Pub   | 1:30:25 |
+| Marathon     |  2017 Bozeman Marathon | 3:30:32 |
 
 ### Strava
 
