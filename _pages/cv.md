@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Astrophysics, University of California, Santa Cruz, 2014 [thesis found here](../files/senior_thesis.pdf)
+* B.S. in Astrophysics, University of California, Santa Cruz, 2014 [thesis](../files/senior_thesis.pdf)
 * M.S. in Physics, Montana State University, 2016
-* Ph.D in Physics, Montana State University, 2019 [dissertation found here](../files/shumko_dissertation.pdf)
+* Ph.D in Physics, Montana State University, 2019 [dissertation](../files/shumko_dissertation.pdf)
 
 Work experience
 ======
