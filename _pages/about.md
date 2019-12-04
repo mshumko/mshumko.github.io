@@ -24,6 +24,9 @@ I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-
 | Half-marathon | 2018 Run To The Pub   | 01:30:25 |
 | Marathon     |  2017 Bozeman Marathon | 03:30:32 |
 
+### My Running Adventures
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Tsfz7O9pYw8fLEkiTJUHJQWQDw2PNxON" width="640" height="480"></iframe>
+
 ### Strava
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1782724/activity-summary/cd29e2ae99bf84e71d1d33495b23b3f3aa636497'></iframe>
