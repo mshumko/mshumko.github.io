@@ -25,7 +25,7 @@ I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-
 | Marathon     |  2017 Bozeman Marathon | 03:30:32 |
 
 ### My Running Adventures
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Tsfz7O9pYw8fLEkiTJUHJQWQDw2PNxON" width="300" height="300"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Tsfz7O9pYw8fLEkiTJUHJQWQDw2PNxON" width="100%" height="480"></iframe>
 
 ### Strava
 
