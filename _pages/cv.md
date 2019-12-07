@@ -63,16 +63,16 @@ Talks
   
 Teaching
 ======
-* Teaching Assistant, Physics 220, Intro to Physics I (w/ calculus), Spring 2016.
-* Instructor, Physics 201, Physics by Inquiry, Fall 2015.
-* Teaching Assistant, Physics 207, Intro to Physics II, Spring 2015, Summer 2015.
-* Teaching Assistant, Physics 205, Intro to Physics I, Fall 2014.
+* Teaching Assistant, Physics 220, Intro to Physics I (w/ calculus), Spring 2016
+* Instructor, Physics 201, Physics by Inquiry, Fall 2015
+* Teaching Assistant, Physics 207, Intro to Physics II, Spring 2015, Summer 2015
+* Teaching Assistant, Physics 205, Intro to Physics I, Fall 2014
 
 Awards
 ======
-* NASA Earth and Space Sciences Fellowship, 2018 and 2019.
-* Vela Fellowship, 2018.
-* The Best Inner Magnetosphere Poster, GEM Workshop, 2016.
-* Montana Space Grant Consortium (MSGC) Fellowship, 2015.
+* NASA Earth and Space Sciences Fellowship, 2018 and 2019
+* Vela Fellowship, 2018
+* The Best Inner Magnetosphere Poster, GEM Workshop, 2016
+* Montana Space Grant Consortium Fellowship, 2015
   
-[Download full CV here](http://mshumko.github.io/files/shumko_cv.pdf)
+[The full CV](http://mshumko.github.io/files/shumko_cv.pdf)
