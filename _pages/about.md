@@ -29,3 +29,5 @@ I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-
 ### Strava
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1782724/activity-summary/cd29e2ae99bf84e71d1d33495b23b3f3aa636497'></iframe>
+
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://mshumko.github.io/_includes/heatmap.html'></iframe>
