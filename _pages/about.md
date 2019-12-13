@@ -26,8 +26,8 @@ I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Tsfz7O9pYw8fLEkiTJUHJQWQDw2PNxON" width="100%" height="480"></iframe>
 
+<iframe src="https://mshumko.github.io/_includes/heatmap.html" width="100%" height="480"></iframe>
+
 ### Strava
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1782724/activity-summary/cd29e2ae99bf84e71d1d33495b23b3f3aa636497'></iframe>
-
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://mshumko.github.io/_includes/heatmap.html'></iframe>
