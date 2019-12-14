@@ -26,9 +26,10 @@ I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-
 
 <!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Tsfz7O9pYw8fLEkiTJUHJQWQDw2PNxON" width="100%" height="480"></iframe> -->
 
-### Heatmap showing where I run around Bozeman
+### Heat map showing where I run around Bozeman
 <iframe src="https://mshumko.github.io/files/heatmap.html" width="100%", height="240"></iframe>
-If you want to make your own heat map, this [program](https://github.com/mshumko/running_heatmap)was used to generate it.
+
+If you want to make your own heat map, this [program](https://github.com/mshumko/running_heatmap) was used to generate it.
 
 ### Strava
 
