@@ -24,9 +24,11 @@ I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-
 | Half-marathon | 2018 Run To The Pub   | 01:30:25 |
 | Marathon     |  2017 Bozeman Marathon | 03:30:32 |
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Tsfz7O9pYw8fLEkiTJUHJQWQDw2PNxON" width="100%" height="480"></iframe>
+<!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Tsfz7O9pYw8fLEkiTJUHJQWQDw2PNxON" width="100%" height="480"></iframe> -->
 
-<iframe src="https://mshumko.github.io/files/heatmap.html" width="100%"></iframe>
+### Heatmap showing where I run around Bozeman
+<iframe src="https://mshumko.github.io/files/heatmap.html" width="100%", height="240"></iframe>
+If you want to make your own heat map, this [program](https://github.com/mshumko/running_heatmap)was used to generate it.
 
 ### Strava
 
