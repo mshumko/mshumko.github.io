@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I've just earned my PhD in physics from Montana State University (MSU) in Bozeman, Montana. I am currently working with Dr. John Sample to study energetic particle precipitation into Earth's atmosphere. The central focus of my research is a type of particle precipitation into the atmopshere called microbursts, a sub-second intense impulse of electrons obseved in low Earth orbit, upper atmosphere, and recently inside the radiation belts. Microbursts have been estimated to deplete the outer radiation belt electrons as quickly as a few hours, and may affect atmospheric chemistry. My work on microbursts is highlighted in the [Publications](/publications/) section.
+I recently earned my physics PhD from Montana State University (MSU) in Bozeman, Montana working with Dr. John Sample. Broadly, I study energetic particle precipitation into Earth's atmosphere. My PhD research focused on a type of particle precipitation into the atmopshere called microbursts, a sub-second intense impulse of electrons obseved in low Earth orbit, upper atmosphere, and recently inside the radiation belts. Microbursts have been estimated to deplete the outer radiation belt electrons as quickly as a few hours and may affect atmospheric chemistry. My work on microbursts is highlighted in the [Publications](/publications/) section.
 
-I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-II CubeSats, and data from various other missions such as NASA's Van Allen Probes and AeroCube-6 missions. I mostly do data analysis, and modeling to link observations to our best guess at reality. More specifics describing my current work and work-related interests are in the [Research](/research/) section.
+I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-II CubeSats, and data from various other missions such as NASA's Van Allen Probes and AeroCube-6 missions. I spend my time doing data analysis, and modeling to link observations to our best guess at reality. More specifics describing my current work and work-related interests are in the [Research](/research/) section.
 
 ## Running
 
