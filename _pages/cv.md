@@ -18,6 +18,7 @@ Education
 Work experience
 ======
 * MSU's Space Sciences and Engineering Laboratory \| September 2014 - Present \| Graduate Research Assistant & Postdoctoral researcher
+  * Launched a BARREL high altitude balloon out of McMurdo, Antarctica in December 2019
   * Command and operate FIREBIRD-II CubeSats. Developed the data pipeline to get the data from FIREBIRD to the [internet](http://solar.physics.montana.edu/FIREBIRD_II/) in less than 24 hours
   * Analyzed time series data from the FIREBIRD-II and AC6 CubeSat missions to study microbursts (these analyses lead to two publications described in the [Publication Section](/publications/))
   * Developed a Python wrapper for [IRBEM-Lib](https://sourceforge.net/p/irbem/code/HEAD/tree/trunk/python/)
@@ -75,4 +76,4 @@ Awards
 * The Best Inner Magnetosphere Poster, GEM Workshop, 2016
 * Montana Space Grant Consortium Fellowship, 2015
   
-[The full CV](http://mshumko.github.io/files/shumko_cv.pdf)
+[Full CV](http://mshumko.github.io/files/shumko_cv.pdf)
