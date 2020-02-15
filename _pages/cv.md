@@ -71,6 +71,7 @@ Teaching
 
 Awards
 ======
+* NASA Postdoctoral Program Fellowship, 2020
 * NASA Earth and Space Sciences Fellowship, 2018 and 2019
 * Vela Fellowship, 2018
 * The Best Inner Magnetosphere Poster, GEM Workshop, 2016

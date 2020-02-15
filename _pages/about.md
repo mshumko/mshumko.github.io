@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I recently earned my physics PhD from Montana State University (MSU) in Bozeman, Montana working with Dr. John Sample. Broadly, I study energetic particle precipitation into Earth's atmosphere. My PhD research focused on a type of particle precipitation into the atmopshere called microbursts, a sub-second intense impulse of electrons obseved in low Earth orbit, upper atmosphere, and recently inside the radiation belts. Microbursts have been estimated to deplete the outer radiation belt electrons as quickly as a few hours and may affect atmospheric chemistry. My work on microbursts is highlighted in the [Publications](/publications/) section.
+I recently earned my physics PhD from Montana State University (MSU) in Bozeman, Montana working with Dr. John Sample. This fall, after I hike the Pacific Crest Trail, I will start working at NASA Goddard Space Flight Center - supported by The NASA Postdoctoral Program fellowship. 
+
+I study energetic particle precipitation from space into Earth's atmosphere using multi-spacecraft missions. With multiple measurements made nearby it is possible to study a variety of transient and persistent particle precipitation phenomena that is impossible with a single spacecraft. My PhD research focused on a type of transient electron precipitation into the atmopshere called microbursts, a sub-second intense impulse of electrons obseved in low Earth orbit, upper atmosphere, and recently inside the radiation belts. Microbursts have been estimated to deplete the outer radiation belt electrons as quickly as a few hours and affect atmospheric chemistry. My work on microbursts is highlighted in the [Publications](/publications/) section.
+
+For my postdoctorial research I am studying a form of persistent precipitation called curtains. Curtains were recently discovered and not much is known about them. The little we do know include: curtains can persist for at least 65 seconds, and they are very small. So small, in fact, that a spacecraft will typically cross one in about a second, roughly ten kilometers in low Earth orbit.
 
 I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-II CubeSats, and data from various other missions such as NASA's Van Allen Probes and AeroCube-6 missions. I spend my time doing data analysis, and modeling to link observations to our best guess at reality. More specifics describing my current work and work-related interests are in the [Research](/research/) section.
 
@@ -28,7 +32,7 @@ I am immersed in studying in-situ energetic particle data taken by the FIREBIRD-
 
 ### Heat map showing where I run in Bozeman
 <iframe src="https://mshumko.github.io/files/heatmap.html" width="100%" height="300"></iframe>
-If you want to make your own heat map, this [program](https://github.com/mshumko/running_heatmap) was used to generate it.
+This [program](https://github.com/mshumko/running_heatmap) was used to generate this map.
 
 ### Strava
 
