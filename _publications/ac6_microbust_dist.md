@@ -1,9 +1,11 @@
 ---
 title: "Electron Microburst Size Distribution Derived with AeroCube-6"
 collection: publications
-excerpt: 'This paper showcases my analysis to derive the > 35 keV microburst size distribution.'
-date: 2019-11-15
-paperurl: 'https://www.essoar.org/doi/abs/10.1002/essoar.10501138.1'
+excerpt: 'This paper describes the analysis to estimate the > 30 keV microburst size distribution in low Earth orbit and the magnetic equator. Then the microburst distribution is compared with the distribution of chorus waves to identify the wave properties favorable for scattering microburst electrons.'
+date: 2020-02-21
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JA027651'
 venue: 'Journal of Geophysical Research'
 ---
-This paper is in preparation. I describe the analysis to estimate the > 35 keV microburst size distribution in low Earth orbit and the magnetic equator. Then I compare the equatorial distribution of chorus waves and microbursts.
+
+
+[Download paper here](http://mshumko.github.io/files/2020-Shumko,Johnson,Sample-JGR-Electron Microburst Size Distribution Derived With AeroCube 6.pdf)
