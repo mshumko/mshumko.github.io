@@ -7,5 +7,4 @@ paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JA027651
 venue: 'Journal of Geophysical Research'
 ---
 
-
 [Download paper here](http://mshumko.github.io/files/2020-Shumko,Johnson,Sample-JGR-Electron Microburst Size Distribution Derived With AeroCube 6.pdf)
