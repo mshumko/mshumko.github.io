@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently earned my physics PhD from Montana State University (MSU) in Bozeman, Montana working with Dr. John Sample. This fall, after I hike the Pacific Crest Trail, I will start working at NASA Goddard Space Flight Center - supported by The NASA Postdoctoral Program fellowship. 
+I recently earned my physics PhD from Montana State University (MSU) in Bozeman, Montana working with Dr. John Sample. Currently I am working at The NASA's Goddard Space Flight Center, supported by The NASA Postdoctoral Program fellowship, and working with Dr. Lauren Blum.
 
 I study in-situ energetic particle precipitation observed by various magnetospheric CubeSats, and larger missions such as NASA's Van Allen Probes. I analyze data and make models that attempt to link observations to our best guess at reality. The published projects I was involved in are listed in the [Publications](/publications/) section and my work experiance is summarized in the [CV](/cv) section.
 
