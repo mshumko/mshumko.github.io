@@ -81,4 +81,4 @@ Awards
 * The Best Inner Magnetosphere Poster, GEM Workshop, 2016
 * Montana Space Grant Consortium Fellowship, 2015
   
-The full CV can be downloaded from [here](http://mshumko.github.io/files/shumko_cv.pdf)
+The full CV can be downloaded [here](http://mshumko.github.io/files/shumko_cv.pdf).
