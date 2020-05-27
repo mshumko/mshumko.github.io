@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* MSU's Space Sciences and Engineering Laboratory \| September 2014 - Present \| Graduate Research Assistant & Postdoctoral researcher
+* NASA's Goddard Space Flight Center \| May 2020 - Present \| NASA Postdoctoral Program (NPP) Fellow
+  * Developing the data processing retirements for the Geosynchronous Transfer Orbit Satellite (GTOSat)
+  * Analyzing energetic electron precipitation data from CubeSats orbiting in low Earth orbit
+
+* MSU's Space Sciences and Engineering Laboratory \| September 2014 - April 2020 \| Graduate Research Assistant & Postdoctoral researcher
   * Launched a BARREL high altitude balloon out of McMurdo, Antarctica in December 2019
   * Command and operate FIREBIRD-II CubeSats. Developed the data pipeline to get the data from FIREBIRD to the [internet](http://solar.physics.montana.edu/FIREBIRD_II/) in less than 24 hours
   * Analyzed time series data from the FIREBIRD-II and AC6 CubeSat missions to study microbursts (these analyses lead to two publications described in the [Publication Section](/publications/))
@@ -77,4 +81,4 @@ Awards
 * The Best Inner Magnetosphere Poster, GEM Workshop, 2016
 * Montana Space Grant Consortium Fellowship, 2015
   
-[Full CV](http://mshumko.github.io/files/shumko_cv.pdf)
+The full CV can be downloaded from [here](http://mshumko.github.io/files/shumko_cv.pdf)
