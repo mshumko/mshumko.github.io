@@ -31,4 +31,4 @@ Besides analyzing time series data to study microbursts and curtain precipitatio
 
 <img src="../images/linear_regression_from_scratch.gif" alt="Drawing" style="width: 500px;"/>
 
-*Example animation of Bayesian linear regression using the Metropoplis Markov Chain Monte Carlo (MCMC) sampler. Red lines show the "true" line and blue dots are the observations from the "true" line assuming Gaussian noise. Each frame shows an iteration of the MCMC, and the final frame shows the final posteror histogram.*
+***Example animation of Bayesian linear regression using the Metropoplis Markov Chain Monte Carlo (MCMC) sampler. Red lines show the "true" line and blue dots are the observations from the "true" line assuming Gaussian noise. Each frame shows an iteration of the MCMC, and the final frame shows the final posteror histogram.***
