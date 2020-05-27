@@ -15,14 +15,14 @@ During my graduate career I had the privilege to operate the pair of FIREBIRD-II
 <img src="../images/firebird_pose_v2.jpg" alt="Picture of FIREBIRD-II CubeSats on the bench" style="height: 250px;"/>
 <img src="../images/hires_plot_log_8pt_smooth_pos_v2.png" alt="A unique, bouncing packet microburst simultaneously observed by FIREBIRD-II" style="height: 250px;"/>
 
-*The twin FIREBIRD-II CubeSats on the bench before launch, and examples of a microburst observed simultaneously by FIREBIRD-II where subsequent bounces were observed. More bouncing microburst details are [here](/publication/bouncing_packet_paper_1).*
+***The twin FIREBIRD-II CubeSats on the bench before launch, and examples of a microburst observed simultaneously by FIREBIRD-II where subsequent bounces were observed. More bouncing microburst details are [here](/publication/bouncing_packet_paper_1).***
 
 ## Current Projects
 For my postdoctoral research, I am studying a form of stationary and persistent precipitation called curtains. Curtains were recently discovered and little is known about them; curtains can persist for at least 65 seconds, and they are very small. So small, in fact, that a spacecraft will typically cross one in about a second, roughly ten kilometers in low Earth orbit. My goal is to answer two questions: what are curtains, and what is their impact on atmospheric chemistry such as ozone? 
 
 <img src="../images/curtains.png" alt="Curtains observed at the same location by AC6" style="width:100%;"/>
 
-*Examples of four electron curtain precipitation observed by AC6 unit A in red and unit B in blue.*
+***Examples of four electron curtain precipitation observed by AC6 unit A in red and unit B in blue.***
 
 I am also working with the GTOsat science team to define the particle and wave data products and create a data pipeline to automatically process data and make it immediately available to the scientific community
 
