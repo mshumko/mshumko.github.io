@@ -22,7 +22,7 @@ For my postdoctoral research, I am studying a form of stationary and persistent 
 
 <img src="../images/curtains.png" alt="Curtains observed at the same location by AC6" style="width:100%;"/>
 
-***Four examples of electron curtain precipitation observed by AC6 unit A in red and unit B in blue.***
+***Four examples of electron curtain precipitation observed by AC6 unit A in red and unit B in blue. Unit B's time series data was shifted by dt to show the electron precipitation observed at the same location.***
 
 I am also working with the GTOsat science team to define the particle and wave data products and create a data pipeline to automatically process data and make it immediately available to the scientific community
 
