@@ -28,7 +28,7 @@ My current and future research interestes are described in the [Research](/resea
 
 <!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Tsfz7O9pYw8fLEkiTJUHJQWQDw2PNxON" width="100%" height="480"></iframe> -->
 
-### Heat map showing where I run in Bozeman
+### Heat map showing where I've run before
 <iframe src="https://mshumko.github.io/files/heatmap.html" width="100%" height="300"></iframe>
 This [program](https://github.com/mshumko/running_heatmap) was used to generate this map.
 
