@@ -1,0 +1,9 @@
+---
+title: "Observations Directly Linking Relativistic Electron Microbursts to Whistler Mode Chorus: Van Allen Probes and FIREBIRD II"
+collection: publications
+abstract: "We present observations that provide the strongest evidence yet that discrete whistler mode chorus packets cause relativistic electron microbursts. On 20 January 2016 near 1944 UT the low Earth orbiting CubeSat Focused Investigations of Relativistic Electron Bursts: Intensity, Range, and Dynamics (FIREBIRD II) observed energetic microbursts (near L = 5.6 and MLT = 10.5) from its lower limit of 220 keV, to 1 MeV. In the outer radiation belt and magnetically conjugate, Van Allen Probe A observed rising-tone, lower band chorus waves with durations and cadences similar to the microbursts. No other waves were observed. This is the first time that chorus and microbursts have been simultaneously observed with a separation smaller than a chorus packet. A majority of the microbursts do not have the energy dispersion expected for trapped electrons bouncing between mirror points. This confirms that the electrons are rapidly (nonlinearly) scattered into the loss cone by a coherent interaction with the large amplitude (up to ∼ 900 pT) chorus. Comparison of observed time-averaged microburst flux and estimated total electron drift shell content at L = 5.6 indicate that microbursts may represent a significant source of energetic electron loss in the outer radiation belt."
+date: 2017-11-15
+venue: 'Geophysical Research Letters'
+paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL075001'
+citation: 'Breneman, A. W., Crew, A., Sample, J.,Klumpar, D., Johnson, A., Agapitov, O.,...Kletzing, C. A. (2017). Observationsdirectly linking relativistic elec-tron microbursts to whistlermode chorus: Van Allen Probesand FIREBIRD II.GeophysicalResearch Letters,44, 11,265–11,272.https://doi.org/10.1002/2017GL075001'
+---
