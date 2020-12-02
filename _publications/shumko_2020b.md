@@ -6,5 +6,5 @@ date: 2020-11-11
 paperurl: 'https://doi.org/10.1029/2020JA028462'
 venue: 'Journal of Geophysical Research'
 citation: "Shumko, M., Johnson, A. T., O'Brien, T. P., Turner, D. L., Greeley, A. D., Sample, J. G., et al. (2020). Statistical properties of electron curtain precipitation estimated with AeroCube‐6. Journal of Geophysical Research: Space Physics, 125, e2020JA028462. https://doi.org/10.1029/2020JA028462"
-filedownload: "http://mshumko.github.io/files/2020-Shumko,Johnson,O'Brien-JGR-Statistical Properties of Electron Curtain Precipitation Estimated With AeroCube-6"
+filedownload: "http://mshumko.github.io/files/2020-Shumko,Johnson,O'Brien-JGR-Statistical Properties of Electron Curtain Precipitation Estimated With AeroCube-6.pdf"
 ---
