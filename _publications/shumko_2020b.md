@@ -1,8 +1,10 @@
 ---
-title: "Statistical Properties of Electron Curtain Precipitation Estimated with AeroCube-6"
+title: "Statistical Properties of Electron Curtain Precipitation Estimated With AeroCube‐6"
 collection: publications
 abstract: "Curtain precipitation are a recently discovered stationary, persistent, and latitudinally narrow electron precipitation phenomenon in low Earth orbit. Curtains are observed over consecutive passes of the dual AeroCube-6 CubeSats while their in-track lag varied from a fraction of a second to 65 seconds, with dosimeters that are sensitive to >30 keV electrons. This study uses the AeroCube-6 mission to quantify the statistical properties of 1,634 curtains observed over three years. We found that many curtains are narrower than 10 kilometers in the latitudinal direction with 90% narrower than 20 kilometers, corresponding to a few hundred kilometer radial size at the magnetic equator. We examined the magnetic local time and geomagnetic dependence of curtains. We found that curtains are observed in the late-morning and pre-midnight magnetic local times, with a higher occurrence rate at pre-midnight, and curtains are observed more often during times of enhanced Auroral Electrojet. We found a few curtains in the bounce loss cone region above the north Atlantic, whose electrons were continuously scattered for at least 6 seconds. Such observations suggest that continuous curtain precipitation may be a significant loss of >30 keV electrons from the magnetosphere into the atmosphere, possibly scattered by a parallel direct current electric field."
-date: 2020-07-13
-paperurl: 'https://www.essoar.org/doi/abs/10.1002/essoar.10503661.1'
-venue: 'Journal of Geophysical Research (under review)'
+date: 2020-11-11
+paperurl: 'https://doi.org/10.1029/2020JA028462'
+venue: 'Journal of Geophysical Research'
+citation: "Shumko, M., Johnson, A. T., O'Brien, T. P., Turner, D. L., Greeley, A. D., Sample, J. G., et al. (2020). Statistical properties of electron curtain precipitation estimated with AeroCube‐6. Journal of Geophysical Research: Space Physics, 125, e2020JA028462. https://doi.org/10.1029/2020JA028462"
+filedownload: "http://mshumko.github.io/files/2020-Shumko,Johnson,O'Brien-JGR-Statistical Properties of Electron Curtain Precipitation Estimated With AeroCube-6"
 ---
