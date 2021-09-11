@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Astrophysics, University of California, Santa Cruz, 2014 [thesis](../files/shumko_thesis.pdf)
-* M.S. in Physics, Montana State University, 2016
 * Ph.D in Physics, Montana State University, 2019 [dissertation](../files/shumko_dissertation.pdf)
+* B.S. in Astrophysics, University of California, Santa Cruz, 2014 [thesis](../files/shumko_thesis.pdf)
 
 Work experience
 ======
 * NASA's Goddard Space Flight Center \| May 2020 - Present \| NASA Postdoctoral Program (NPP) Fellow
+  * Developed [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/), a Python package that easily downloads, plots, animates, and analyzes auroral all sky imager (ASI) data . Learned and implemented packaging a set of Python modules, downloading a large volume of data, writing HTML documentation using Sphinx, automatically running tests using GitHub Actions, and archiving the package on PyPI. Install package as easy as “python3 -m pip install aurora-asi-lib”
   * Developing the data processing retirements for the Geosynchronous Transfer Orbit Satellite (GTOSat)
   * Analyzing energetic electron precipitation data from CubeSats orbiting in low Earth orbit
 
@@ -65,20 +65,23 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+Awards
+======
+* NASA Goddard Diversity and Inclusion Award, 2021
+* Heliophysics Supporting Research Grant, 2021
+* Internal Scientist Funding Model Grant at Goddard Space Flight Center, 2021
+* NASA Postdoctoral Program Fellowship, 2020
+* NASA Earth and Space Sciences Fellowship, 2018 and 2019
+* Vela Fellowship, 2018
+* The Best Inner Magnetosphere Poster, GEM Workshop, 2016
+* Montana Space Grant Consortium Fellowship, 2015
+
 Teaching
 ======
 * Teaching Assistant, Physics 220, Intro to Physics I (w/ calculus), Spring 2016
 * Instructor, Physics 201, Physics by Inquiry, Fall 2015
 * Teaching Assistant, Physics 207, Intro to Physics II, Spring 2015, Summer 2015
 * Teaching Assistant, Physics 205, Intro to Physics I, Fall 2014
-
-Awards
-======
-* NASA Postdoctoral Program Fellowship, 2020
-* NASA Earth and Space Sciences Fellowship, 2018 and 2019
-* Vela Fellowship, 2018
-* The Best Inner Magnetosphere Poster, GEM Workshop, 2016
-* Montana Space Grant Consortium Fellowship, 2015
   
-The full CV can be downloaded [here](http://mshumko.github.io/files/shumko_cv.pdf).
+The comprehensive CV can be downloaded [here](http://mshumko.github.io/files/shumko_cv.pdf).
