@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I recently earned my physics PhD from Montana State University (MSU) in Bozeman, Montana working with Dr. John Sample. Currently I am working at The NASA's Goddard Space Flight Center, supported by The NASA Postdoctoral Program fellowship, working with Dr. Alexa Halford and Dr. Lauren Blum.
+Hi there! I am a space physicist working at NASA's Goddard Space Flight Center as a NASA Postdoctoral Program ([NPP](https://npp.usra.edu/)) fellow. 
 
-I study in-situ energetic particle precipitation observed by various magnetospheric CubeSats, and larger missions such as NASA's Van Allen Probes. I analyze data and make models that attempt to link observations to our best guess at reality. The published projects I was involved in are listed in the [Publications](/publications/) section and my work experiance is summarized in the [CV](/cv) section.
+I've recently developed a passion for developing software libraries that enable painless and accurate data analysis and discovery. Many space physics data sets do not come with vetted analysis software, thus researchers are often forced to recreate their own analysis software---possibly introducing bugs that affect their scientific results. With this goal in mind, my first project is [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/en/latest/) that is designed to "Easily download, plot, animate, and analyze auroral all sky imager (ASI) data." This library will soon be incorporated into [AuroraX](https://aurorax.space/) where it will become a part of a larger end-to-end aurora analysis toolkit. See the [Research](/research/) section that has more details about my current research projects and interests. 
 
-My current and future research interestes are described in the [Research](/research/) section. 
+Broadly, my research is currently focused on atmospheric particle precipitation. At the lower energy end, this precipitation creates beautiful auroral displays near the northern and southern poles. At the higher energy end, however, these particles can be dangerous to humans and our technology in space and atmosphere (think aviation). These electrons are sometimes called "[Killer Electrons](https://www.nasa.gov/vision/universe/solarsystem/killer_electrons.html)". 
 
-## Running
+Looping back, I study particle precipitation by analyzing particle and image data gathered by auroral all-sky imagers, CubeSats orbiting in low Earth orbit, and larger missions such as NASA's Van Allen Probes. I use this data, together with models, to better understand nature given our limited and sparse observations (space is big!). See the [Publications](/publications/) section to read more about my scientific work.
 
-### Personal records (PRs)
+
+## Exercise and data analysis
+On the topic of data analysis, here are some of my running stats and a global heatmap showing where I've run, biked, or swam. 
+
+### Running personal records (PRs)
 
 | Distance             | Race  |    Time   |
 | ---------------- | --------- | --------- |
@@ -26,9 +30,7 @@ My current and future research interestes are described in the [Research](/resea
 | Half-marathon | 2018 Run To The Pub   | 01:30:25 |
 | Marathon     |  2017 Bozeman Marathon | 03:30:32 |
 
-<!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Tsfz7O9pYw8fLEkiTJUHJQWQDw2PNxON" width="100%" height="480"></iframe> -->
-
-### Heat map showing where I've run before
+### Interactive Heatmap
 <iframe src="https://mshumko.github.io/files/heatmap.html" width="100%" height="300"></iframe>
 This [program](https://github.com/mshumko/running_heatmap) was used to generate this map.
 
