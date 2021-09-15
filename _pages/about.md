@@ -14,11 +14,11 @@ I've recently developed a passion for developing software libraries that enable 
 
 Broadly, my research is currently focused on atmospheric particle precipitation. At the lower energy end, this precipitation creates beautiful auroral displays near the northern and southern poles. At the higher energy end, however, these particles can be dangerous to humans and our technology in space and atmosphere (think aviation). These electrons are sometimes called "[Killer Electrons](https://www.nasa.gov/vision/universe/solarsystem/killer_electrons.html)". 
 
-Looping back, I study particle precipitation by analyzing particle and image data gathered by auroral all-sky imagers, CubeSats orbiting in low Earth orbit, and larger missions such as NASA's Van Allen Probes. I use this data, together with models, to better understand nature given our limited and sparse observations (space is big!). See the [Publications](/publications/) section to read more about my scientific work.
+Looping back, I study particle precipitation by analyzing particle and image data gathered by auroral all-sky imagers, CubeSats orbiting in low Earth orbit, and other missions such as NASA's Van Allen Probes. I use this data, together with models, to better understand nature given our limited and sparse observations (space is big!). See the [Publications](/publications/) section to read more about my scientific work.
 
 
 ## Exercise and data analysis
-On the topic of data analysis, here are some of my running stats and a global heatmap showing where I've run, biked, or swam. 
+On the topic of data analysis, here are some of my running stats and a global heatmap showing where I've ran, biked, or swam. 
 
 ### Running personal records (PRs)
 
