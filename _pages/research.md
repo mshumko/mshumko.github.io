@@ -20,6 +20,12 @@ I am also working on my first comprehencive Python package called [aurora-asi-li
 src="../images/example_1.png"; frameborder="0"
 allowfullscreen></iframe>
 
+<iframe src="../images/example_1.png"; width="100%" height="300"></iframe>
+
+<!-- <iframe width="75%" height="500"
+    src="_static/20150326_060700_062957_themis_fsmi.mp4"; frameborder="0"
+    allowfullscreen></iframe> -->
+
 ## Research Interests
 Besides analyzing time series and image data to study microbursts and curtain precipitation, I develop models to link data to reality---or our best understanding of reality.
 
