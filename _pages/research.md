@@ -20,6 +20,8 @@ I am also working on my first comprehencive Python package called [aurora-asi-li
   <source type="video/mp4" src="../images/20150326_060700_062957_themis_fsmi.mp4">
 </video>
 
+***A fisheye lens view from a THEMIS imager in Fort Smith in Canada, showing how dynamic (and beautiful) aurora can get.***
+
 ## Research Interests
 Besides analyzing time series and image data to study microbursts and curtain precipitation, I develop models to link data to reality---or our best understanding of reality.
 
