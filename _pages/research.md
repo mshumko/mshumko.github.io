@@ -18,7 +18,9 @@ I am also working on my first comprehencive Python package called [aurora-asi-li
 
 <img src="../images/example_1.png" alt="Drawing" style="width: 500px;"/>
 
-<img src="../images/20150326_060700_062957_themis_fsmi.mp4" alt="Drawing" style="width: 500px;"/>
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="../images/20150326_060700_062957_themis_fsmi.mp4">
+</video>
 
 ## Research Interests
 Besides analyzing time series and image data to study microbursts and curtain precipitation, I develop models to link data to reality---or our best understanding of reality.
