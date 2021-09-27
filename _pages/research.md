@@ -16,11 +16,9 @@ Recently, my research pivoted to studying a type of diffuse aurora called pulsat
 
 I am also working on my first comprehencive Python package called [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/). This is my first attempt to build a user-friendly library that allows a researcher to "easily download, plot, animate, and analyze auroral all sky imager (ASI) data." While working on this library I learned a whole lot including software engineering concepts as, simple software architecture, comprehensive tests, and useful documentation. Furthermore, I've learned a lot about the aurora and how it is analyzed. This work is deeply fulfilling, and I believe that we could use more software like this in space physics to reduce the barriers to entry for new scientists. They don't have to deal with learning how to download or load the data: they can download  `aurora-asi-lib` and immediately start working with auroral images.
 
-<img src="../images/example_1.png" alt="Drawing" style="width: 100%;"/>
+<img src="../images/example_1.png" alt="Drawing" style="width: 500px;"/>
 
-<!-- <iframe width="75%" height="500"
-    src="_static/20150326_060700_062957_themis_fsmi.mp4"; frameborder="0"
-    allowfullscreen></iframe> -->
+<img src="../images/20150326_060700_062957_themis_fsmi.mp4" alt="Drawing" style="width: 500px;"/>
 
 ## Research Interests
 Besides analyzing time series and image data to study microbursts and curtain precipitation, I develop models to link data to reality---or our best understanding of reality.
