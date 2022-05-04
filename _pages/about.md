@@ -33,7 +33,3 @@ On the topic of data analysis, here are some of my running stats and a global he
 ### Interactive Heatmap
 <iframe src="https://mshumko.github.io/files/heatmap.html" width="100%" height="300"></iframe>
 This [program](https://github.com/mshumko/running_heatmap) was used to generate this map.
-
-### Strava
-
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1782724/activity-summary/cd29e2ae99bf84e71d1d33495b23b3f3aa636497'></iframe>
