@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a space physicist working at NASA's Goddard Space Flight Center as a postdoc at the University of Maryland and am a former NASA Postdoctoral Program ([NPP](https://npp.orau.org/)) fellow.  
+Hi there! I am a space physicist working at NASA's Goddard Space Flight Center as a postdoc at the University of Maryland and as a former NASA Postdoctoral Program ([NPP](https://npp.orau.org/)) fellow.  
 
 Broadly, my research is currently focused on atmospheric particle precipitation. At the lower energy end, this precipitation creates beautiful displays of the aurora near the northern and southern poles. At the higher energy end, however, these particles can be hazardous to humans and our technology in space and atmosphere (think aviation).
 
