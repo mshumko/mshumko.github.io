@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a space physicist working at NASA's Goddard Space Flight Center as a NASA Postdoctoral Program ([NPP](https://npp.usra.edu/)) fellow.  
+Hi there! I am a space physicist working at NASA's Goddard Space Flight Center as a postdoc at the University of Maryland and am a former NASA Postdoctoral Program ([NPP](https://npp.orau.org/)) fellow.  
 
-Broadly, my research is currently focused on atmospheric particle precipitation. At the lower energy end, this precipitation creates beautiful auroral displays near the northern and southern poles. At the higher energy end, however, these particles can be dangerous to humans and our technology in space and atmosphere (think aviation). These electrons are sometimes called "[Killer Electrons](https://www.nasa.gov/vision/universe/solarsystem/killer_electrons.html)". 
+Broadly, my research is currently focused on atmospheric particle precipitation. At the lower energy end, this precipitation creates beautiful displays of the aurora near the northern and southern poles. At the higher energy end, however, these particles can be hazardous to humans and our technology in space and atmosphere (think aviation).
 
-I study particle precipitation by analyzing particle and image data gathered by auroral all-sky imagers, CubeSats orbiting in low Earth orbit, and other missions such as NASA's Van Allen Probes. I use this data, together with models, to better understand nature given our limited and sparse observations (space is big!). See the [Publications](/publications/) section to read more about my scientific work.
+I study particle precipitation by analyzing particle and image data gathered by auroral all-sky imagers, CubeSats orbiting in low Earth orbit, and other satellite missions such as NASA's Van Allen Probes. I use this data, together with models, to better understand nature given our limited and sparse observations (space is big!). See the [Publications](/publications/) section to read more about my scientific work.
 
 I've recently developed a passion for developing software libraries that enable painless and accurate data analysis and discovery. Many space physics data sets do not come with vetted analysis software, thus researchers are often forced to recreate their own analysis software---possibly introducing bugs that affect their scientific results. With this goal in mind, my first project is [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/en/latest/) that is designed to "Easily download, plot, animate, and analyze auroral all sky imager (ASI) data." This library will soon be incorporated into [AuroraX](https://aurorax.space/) where it will become a part of a larger end-to-end aurora analysis toolkit. See the [Research](/research/) section that has more details about my current research projects and interests.
 
