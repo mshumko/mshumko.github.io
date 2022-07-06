@@ -16,13 +16,13 @@ Recently, my research pivoted to studying a type of diffuse aurora called pulsat
 
 I am also working on my first comprehencive Python package called [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/). This is my first attempt to build a user-friendly library that allows a researcher to "easily download, plot, animate, and analyze auroral all sky imager (ASI) data." While working on this library I learned a whole lot including software engineering concepts as, simple software architecture, comprehensive tests, and useful documentation. Furthermore, I've learned a lot about the aurora and how it is analyzed. This work is deeply fulfilling, and I believe that we could use more software like this in space physics to reduce the barriers to entry for new scientists. They don't have to deal with learning how to download or load the data: they can download  `aurora-asi-lib` and immediately start working with auroral images.
 
-<video max-width="100%" max-height="400px" controls autoplay loop>
+<video width="100%" max-height=500px controls autoplay loop>
   <source type="video/mp4" src="../images/20220305_riometer_merged.mp4">
 </video>
 
 ***A timelapse of the aurora that I took right before the LAMP sounding rocket launched from Poker Flat, Alaska on 5 March 2022. A riometer antenna is in the foreground.***
 
-<video width="100%" max-height=100px controls autoplay loop>
+<video width="100%" max-height=500px controls autoplay loop>
   <source type="video/mp4" src="../images/20070220_proton_aurora_microbursts.mp4">
 </video>
 
@@ -33,7 +33,7 @@ Besides analyzing time series and image data to study microbursts and curtain pr
 
 Broadly, I am interested in probabilistic methods such as Bayesian Inference (see my [2020 paper](https://mshumko.github.io/publications/shumko_2020a/)). I am very interested in these models because they allow a modeler to explicitly incorporate statistical and systematic uncertainty into model to make statistically-guided inferences about results. 
 
-<img src="../images/linear_regression_from_scratch.gif" alt="Drawing" style="width: 500px;"/>
+<img src="../images/linear_regression_from_scratch.gif" alt="Linear regression animation" style="width: 500px;"/>
 
 ***Example animation of Bayesian linear regression using a hand-coded Metropoplis Markov Chain Monte Carlo (MCMC) sampler. Red lines show the "true" line and blue dots are the observations from the "true" line assuming Gaussian noise. Each frame shows an iteration of the MCMC, and the final frame shows the final posteror histogram.***
 
