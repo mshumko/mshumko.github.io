@@ -22,7 +22,7 @@ I am also working on my first comprehencive Python package called [aurora-asi-li
 
 ***A timelapse of the aurora that I took right before the LAMP sounding rocket launched from Poker Flat, Alaska on 5 March 2022. A riometer antenna is in the foreground.***
 
-<video width="100%" height="auto" max-height="100px" controls autoplay loop>
+<video width="100%" height="auto" max-height=100px controls autoplay loop>
   <source type="video/mp4" src="../images/20070220_proton_aurora_microbursts.mp4">
 </video>
 
