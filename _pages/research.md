@@ -22,11 +22,11 @@ I am also working on my first comprehencive Python package called [aurora-asi-li
 
 ***A timelapse of the aurora that I took right before the LAMP sounding rocket launched from Poker Flat, Alaska on 5 March 2022. A riometer antenna is in the foreground.***
 
-<video width="100%" height="auto" max-height="400px" controls autoplay loop>
+<video width="100%" height="auto" max-height="100px" controls autoplay loop>
   <source type="video/mp4" src="../images/20070220_proton_aurora_microbursts.mp4">
 </video>
 
-***The SAMPEX satellite observed energetic electron microbursts (the spikes in the bottom panel) while it passed above proton aurora on 20 January 2007.***
+***The SAMPEX satellite observed energetic electron microbursts (the spikes in the bottom panel) while it orbited above proton aurora on 20 January 2007.***
 
 ## Research Interests
 Besides analyzing time series and image data to study microbursts and curtain precipitation, I develop models to link data to reality---or our best understanding of reality.
