@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a space physicist who is currently teaching the Introduction to Plasma Physics course at Dartmouth College in Fall 2022.
+Hi there! I am a space physicist who is teaching the Introduction to Plasma Physics course at Dartmouth College in the Fall 2022.
 
 <!-- NASA's Goddard Space Flight Center as a postdoc at the University of Maryland and as a former NASA Postdoctoral Program ([NPP](https://npp.orau.org/)) fellow.   -->
 
