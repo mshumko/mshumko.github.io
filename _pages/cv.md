@@ -16,10 +16,17 @@ Education
 
 Work experience
 ======
-* Dartmouth College \| September 2022 - December 2022 \| Visiting Lecturer
-  * Instructing the Introduction to Plasma Physics course
-  * Looking for the wave-derivers of pulsating aurora and relativistic electron precipitation using the THEMIS ASIs, THEMIS satellites, and the SAMPEX satellite.
-  * Developed the [sampex](https://sampex.readthedocs.io/) python package to download, load, and plot the SAMPEX satellite data. This package includes a simple user interface, through documentation with examples, automatic tests, and minimal dependencies.
+* Dartmouth College \| September 2022 - December 2022 \| Lecturer
+  * Taught the undergraduate Plasma Physics Course
+  * Advised a graduate student
+  * Developing a physics-informed neural network.
+
+
+* University of Maryland \| May 2022 - present |\ Post-Doctoral Associate
+  * identifying the wave-derivers of pulsating aurora and relativistic electron precipitation using the THEMIS ASIs, THEMIS satellites, and the SAMPEX satellite.
+  * Advised a graduate student
+  * Developing the LAMPsat CubeSat mission concept.
+  * Developed the sampex (https://sampex.readthedocs.io/) python package to download, load, and plot the SAMPEX satellite data. This package includes a simple user interface, through documentation with examples, automatic tests, and minimal dependencies
 
 
 * NASA's Goddard Space Flight Center \| May 2020 - May 2022 \| NASA Postdoctoral Program (NPP) Fellow
