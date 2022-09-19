@@ -21,13 +21,11 @@ Work experience
   * Advised a graduate student
   * Developing a physics-informed neural network.
 
-
-* University of Maryland \| May 2022 - present |\ Post-Doctoral Associate
+* University of Maryland \| May 2022 - present \| Post-Doctoral Associate
   * identifying the wave-derivers of pulsating aurora and relativistic electron precipitation using the THEMIS ASIs, THEMIS satellites, and the SAMPEX satellite.
   * Advised a graduate student
   * Developing the LAMPsat CubeSat mission concept.
   * Developed the sampex (https://sampex.readthedocs.io/) python package to download, load, and plot the SAMPEX satellite data. This package includes a simple user interface, through documentation with examples, automatic tests, and minimal dependencies
-
 
 * NASA's Goddard Space Flight Center \| May 2020 - May 2022 \| NASA Postdoctoral Program (NPP) Fellow
   * Developed [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/), a Python package that easily downloads, plots, animates, and analyzes auroral all sky imager (ASI) data . Learned and implemented packaging a set of Python modules, downloading a large volume of data, writing HTML documentation using Sphinx, automatically running tests using GitHub Actions, and archiving the package on PyPI. Install package as easy as “python3 -m pip install aurora-asi-lib”
