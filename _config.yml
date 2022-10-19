@@ -83,7 +83,7 @@ author:
   name             : "Mykhaylo Shumko"
   avatar           : "profile.png"
   bio              : "NASA Postdoctoral Fellow"
-  location         : "Bozeman, Montana"
+  location         : "Washington, D.C."
   employer         : "NASA's Goddard Space Flight Center"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ivCgfPQAAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0000-0002-0437-7521
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
