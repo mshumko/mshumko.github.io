@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The comprehensive CV can be downloaded [here](http://mshumko.github.io/files/shumko_cv.pdf).
+
 Education
 ======
 * Ph.D in Physics, Montana State University, 2019 [dissertation](../files/shumko_dissertation.pdf)
@@ -83,5 +85,3 @@ Teaching
 * Instructor, Physics 201, Physics by Inquiry, Fall 2015
 * Teaching Assistant, Physics 207, Intro to Physics II, Spring 2015, Summer 2015
 * Teaching Assistant, Physics 205, Intro to Physics I, Fall 2014
-  
-The comprehensive CV can be downloaded [here](http://mshumko.github.io/files/shumko_cv.pdf).
