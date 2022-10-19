@@ -11,7 +11,8 @@ redirect_from:
 
 The comprehensive CV can be downloaded [here](http://mshumko.github.io/files/shumko_cv.pdf).
 
-<embed src="http://mshumko.github.io/files/shumko_cv.pdf" width="1000px" height="2100px" />
+
+<embed src="http://mshumko.github.io/files/shumko_cv.pdf" type="application/pdf" />
 
 Education
 ======
