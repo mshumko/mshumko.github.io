@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a space physicist who is teaching the Introduction to Plasma Physics course at Dartmouth College in the Fall 2022.
-
-<!-- NASA's Goddard Space Flight Center as a postdoc at the University of Maryland and as a former NASA Postdoctoral Program ([NPP](https://npp.orau.org/)) fellow.   -->
+Hi there! I am a space physicist working with NASA's Goddard Space Flight Center as a postdoctoral fellow at the University of Maryland, and a Visiting Scholar at dartmouth College.
 
 Broadly, my research is currently focused on atmospheric particle precipitation. At the lower energy end, this precipitation creates beautiful displays of the aurora near the northern and southern poles. At the higher energy end, however, these particles can be hazardous to humans and our technology in space and atmosphere (think aviation).
 
