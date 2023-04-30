@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a space physicist working with NASA's Goddard Space Flight Center as a postdoctoral fellow at the University of Maryland, and a Visiting Scholar at dartmouth College.
+Hi there! I am a space physicist working at Johns Hopkins University Applied Physics Laboratory as a postdoctoral fellow.
 
 Broadly, my research is currently focused on atmospheric particle precipitation. At the lower energy end, this precipitation creates beautiful displays of the aurora near the northern and southern poles. At the higher energy end, however, these particles can be hazardous to humans and our technology in space and atmosphere (think aviation).
 
