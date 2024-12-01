@@ -10,11 +10,16 @@ redirect_from:
 
 Hi there! I am a space physicist working at Johns Hopkins University Applied Physics Laboratory as a postdoctoral fellow.
 
-Broadly, my research is currently focused on atmospheric particle precipitation. At the lower energy end, this precipitation creates beautiful displays of the aurora near the northern and southern poles. At the higher energy end, however, these particles can be hazardous to humans and our technology in space and atmosphere (think aviation).
+My diverse research interests are to advance our understanding of the ionosphere, inner magnetosphere, and magnetotail environments. My work leverages innovative data analysis techniques across a wide range of in-situ and remote sensing observatories to study the magnetosphere as a coupled system. Currently my two main science goals are:
 
-I study particle precipitation by analyzing particle and image data gathered by auroral all-sky imagers, CubeSats orbiting in low Earth orbit, and other satellite missions such as NASA's Van Allen Probes and Magnetospheric Multiscale mission. I use this data, together with models, to better understand nature given our limited and sparse observations. See the [Publications](/publications/) section to read more about my scientific work.
+1. Understand the mechanisms that are responsible for plasma sheet electron acceleration to relativistic energies, and their subsequent scattering into Earth's atmosphere, and
+2. Understand the mechanisms and impacts of relativistic particle precipitation in Earth's inner magnetosphere. 
 
-I've recently developed a passion for developing software libraries that enable painless and accurate data analysis and discovery. Many space physics data sets do not come with vetted analysis software, thus researchers are often forced to recreate their own analysis software---possibly introducing bugs that affect their scientific results. With this goal in mind, my first project is [aurora-asi-lib](https://aurora-asi-lib.readthedocs.io/en/latest/) that is designed to "Easily download, plot, animate, and analyze auroral all sky imager (ASI) data." This library will soon be incorporated into [AuroraX](https://aurorax.space/) where it will become a part of a larger end-to-end aurora analysis toolkit. See the [Research](/research/) section that has more details about my current research projects and interests.
+At the lower energy end, this precipitation creates beautiful displays of the aurora near the northern and southern poles. At the higher energy end, however, these particles emit X-rays that can be hazardous to humans and to our technological presence in space and upper atmosphere (think aviation and above).
+
+Beyond my data analysis pursuits, developing the [asilib](https://aurora-asi-lib.readthedocs.io/en/latest/) python library where I've learned to use Software Engineering best practices in analyzing auroral all-sky imager (ASI) data. I also lead the Loss through Auroral Microburst Pulsations mission (LAMPsat)---a CubeSat mission concept to simultaneously image pulsating aurora together with the relativistic electrons, to test the [Miyoshi+2020](https://doi.org/10.1029/2020GL090360) hypothesis that relativistic microbursts are the high energy tail of the pulsating aurora phenomenon. 
+
+Want to learn more? Head on over to the [Publications](/publications/) section to read more about my scientific work, or the [Research](/research/) section to see movies of the aurora.
 
 ## Exercise and data analysis
 On the topic of data analysis, here is a global heatmap showing where I've explored. 
