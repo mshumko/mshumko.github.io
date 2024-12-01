@@ -9,10 +9,6 @@ redirect_from:
 
 I study energetic particle precipitation from space into Earth's atmosphere using multipoint measurements---originally using multiple satellites, and now using all-sky imagers stationed in Canada and Alaska. With multiple measurements of the same physical phenomena, it is possible to isolate its properties in space and time. Furthermore, multiple space- and ground-based observatories help us understand the bigger picture. 
 
-<!-- <video width="400px" height="auto" controls autoplay loop>
-  <source type="video/mp4" src="https://youtu.be/mgUZwoR0gcE?si=pYYvAKBrUJ63Py3O">
-</video> -->
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mgUZwoR0gcE?si=pYYvAKBrUJ63Py3O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ***Our sun's solar wind couples to Earth's magnetosphere via reconnection which then leads to a cascade of phenomena ending with the aurora. Credit: NASA***
