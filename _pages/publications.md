@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Here is a list of my first-author and co-author publications. 
+Here is a list of my first-author and co-author publications. Head on over to my [CV](/cv/) to see the complete list of publications.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
