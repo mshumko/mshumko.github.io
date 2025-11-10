@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a space physicist working at Johns Hopkins University Applied Physics Laboratory as a postdoctoral fellow.
+Hi there! I am a space physicist working at the University of Alaska, Fairbanks and the Geophysical Institute as a Assistant Professor of Physics.
 
-My diverse research interests are to advance our understanding of the ionosphere, inner magnetosphere, and magnetotail environments. My work leverages innovative data analysis techniques across a wide range of in-situ and remote sensing observatories to study the magnetosphere as a coupled system. Currently my two main science goals are:
+My diverse research interests are to advance our understanding of the ionosphere, inner magnetosphere, and magnetotail environments. My work leverages innovative data analysis techniques across a wide range of in-situ and remote sensing observatories to study the magnetosphere as a coupled system. Currently my three main science goals are:
 
-1. Understand the mechanisms that are responsible for plasma sheet electron acceleration to relativistic energies, and their subsequent scattering into Earth's atmosphere, and
-2. Understand the mechanisms and impacts of relativistic particle precipitation in Earth's inner magnetosphere. 
+1. Understand the connection and impacts of the aurora with relativistic particle precipitation in Earth's high-latitude region,
+2. Mapping the auroral and energetic precipitation to their magnetospheric sources, and 
+3. Understand the mechanisms that are responsible for plasma sheet electron acceleration to relativistic energies, and their subsequent scattering into Earth's atmosphere.
 
-At the lower energy end, this precipitation creates beautiful displays of the aurora near the northern and southern poles. At the higher energy end, however, these particles emit X-rays that can be hazardous to humans and to our technological presence in space and upper atmosphere (think aviation and above).
+At the lower energy end, this precipitation creates beautiful displays of the aurora near the northern and southern poles. At the higher energy end, however, these particles emit X-rays that can be hazardous to humans and to our technological presence in space and upper atmosphere (think aviation altitudes and above).
 
 Beyond my data analysis pursuits, developing the [asilib](https://aurora-asi-lib.readthedocs.io/en/latest/) python library where I've learned to use Software Engineering best practices in analyzing auroral all-sky imager (ASI) data. I also lead the Loss through Auroral Microburst Pulsations mission (LAMPsat)---a CubeSat mission concept to simultaneously image pulsating aurora together with the relativistic electrons, to test the [Miyoshi+2020](https://doi.org/10.1029/2020GL090360) hypothesis that relativistic microbursts are the high energy tail of the pulsating aurora phenomenon. 
 
