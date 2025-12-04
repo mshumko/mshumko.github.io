@@ -22,7 +22,7 @@ First theme is to understand the connection and impacts of the aurora with relat
   <source type="video/mp4" src="../images/20080116_105900_110127_themis_gill_map.mp4">
 </video>
 
-***A SAMPEX-THEMIS ASI conjunction showing the association between patchy aurora and >1 MeV electron microbursts. Figure reproduced based on [Shumko+2021]https://mshumko.github.io/publications/shumko_2021b/)***
+***A SAMPEX-THEMIS ASI conjunction showing the association between patchy aurora and >1 MeV electron microbursts. Figure reproduced based on [Shumko+2021](https://mshumko.github.io/publications/shumko_2021b/)***
 
 
 That said, these are all case studies and I am now pursing the LAMPsat mission to statistically test this association.
@@ -32,9 +32,7 @@ The second theme is to map the auroral and energetic precipitation to their magn
 And the third theme is to understand the mechanisms that are responsible for plasma sheet electron acceleration to relativistic energies, and their subsequent scattering into Earth's atmosphere.
 
 
-
-
-<video width="400px" height="auto" controls autoplay loop>
+<video class="responsive-video" controls autoplay loop>
   <source type="video/mp4" src="../images/20220305_riometer_merged.mp4">
 </video>
 
@@ -44,7 +42,7 @@ And the third theme is to understand the mechanisms that are responsible for pla
 
 I am also working on my first comprehensive Python package called [asilib](https://aurora-asi-lib.readthedocs.io/). This project is the culmination of my learning journey to build a user-friendly library that allows a researcher to "easily download, plot, animate, and analyze auroral all sky imager (ASI) data." While working on this library I learned a whole lot including software engineering concepts as, simple software architecture, comprehensive tests, and useful documentation. Furthermore, I've learned a lot about the aurora and how it is analyzed. This work is deeply fulfilling, and I believe that we could use more software like this in space physics to reduce the barriers to entry for new scientists. They don't have to learn to do basic tasks including how to download or load the data: they can pip install `asilib` and immediately start working with auroral images.
 
-<video width="400" height="440" controls autoplay loop>
+<video class="responsive-video" controls autoplay loop>
   <source type="video/mp4" src="../images/20070220_proton_aurora_microbursts.mp4">
 </video>
 
