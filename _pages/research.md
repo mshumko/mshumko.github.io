@@ -61,9 +61,9 @@ Broadly, I am interested in probabilistic methods such as Bayesian Inference (se
   .responsive-video {
     display: block;
     margin: 0 auto;
+    width: 100%;
     max-width: 100vw;
     max-height: 90vh;
-    width: auto;
     height: auto;
   }
 </style>
@@ -75,7 +75,7 @@ Broadly, I am interested in probabilistic methods such as Bayesian Inference (se
       const natH = v.videoHeight || 0;
       if (!natH) return;
       if (natH < vh) {
-        v.style.width = '100vw';
+        v.style.width = '100%';
         v.style.height = 'auto';
       } else {
         v.style.height = '90vh';
