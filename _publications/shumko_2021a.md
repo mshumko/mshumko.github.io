@@ -1,6 +1,5 @@
 ---
-title: "Duration of Individual Relativistic Electron Microbursts:
-A Probe Into Their Scattering Mechanism"
+title: "Duration of Individual Relativistic Electron Microbursts: A Probe Into Their Scattering Mechanism"
 collection: publications
 abstract: "We used the Solar Anomalous and Magnetospheric Particle Explorer to identify and quantify the duration of relativistic, >1 MeV, electron microbursts. A typical relativistic microburst has a ~100 millisecond (ms) duration, and the interquartile range of the duration distribution is 70–140 ms. We investigated trends in the microburst duration as a function of geomagnetic activity, L-shell, and magnetic local time (MLT). The clearest trend is in MLT: the median microburst duration doubles from 75 milliseconds at midnight to 140 milliseconds noon MLT. This trend is similar to the whistler mode chorus rising tone element duration trend, suggesting a possible relationship."
 date: 2021-08-17

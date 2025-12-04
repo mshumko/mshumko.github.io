@@ -6,5 +6,5 @@ date: 2023-07-14
 paperurl: 'https://doi.org/10.1029/2023GL104804'
 venue: 'Geophysical Research Letters'
 citation: "Shumko, M., Miyoshi, Y., Blum, L. W., Halford, A. J., Breneman, A. W., Johnson, A. T., ... & Spence, H. E. (2023). Observation of an electron microburst with an inverse time‐of‐flight energy dispersion. Geophysical Research Letters, 50(15), e2023GL104804."
-filedownload: "http://mshumko.github.io/files/files/files/2023-Shumko,Miyoshi,Blum-GRL-Observation of an Electron Microburst With an Inverse Time Of Flight Energy Dispersion.pdf"
+filedownload: "http://mshumko.github.io/files/2023-Shumko,Miyoshi,Blum-GRL-Observation of an Electron Microburst With an Inverse Time Of Flight Energy Dispersion.pdf"
 ---

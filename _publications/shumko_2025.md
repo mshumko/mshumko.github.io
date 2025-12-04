@@ -6,5 +6,5 @@ date: 2025-09-05
 paperurl: 'https://doi.org/10.1029/2025GL116477'
 venue: 'Geophysical Research Letters'
 citation: "Shumko, M., Artemyev, A., Raptis, S., Zou, Y., Turner, D. L., Ukhorskiy, A. Y., ... & Jaynes, A. N. (2025). On the spatial relationship between the aurora and relativistic electron precipitation during a storm‐time substorm. Geophysical research letters, 52(17), e2025GL116477."
-filedownload: "http://mshumko.github.io/files/files/2025-Shumko,Artemyev,Raptis-GRL-On the Spatial Relationship Between the Aurora and Relativistic Electron Precipitation During a Stor.pdf"
+filedownload: "http://mshumko.github.io/files/2025-Shumko,Artemyev,Raptis-GRL-On the Spatial Relationship Between the Aurora and Relativistic Electron Precipitation During a Stor.pdf"
 ---
