@@ -35,9 +35,11 @@ Looking forward, I plan to study the relativistic microburst-pulsating aurora hy
 
 **Second Theme: Using isotropy boundaries to map the aurora to its magnetospheric sources.** Mapping auroral forms to/from their magnetospheric sources is highly uncertain because Earth's night side magnetosphere dynamically evolves on minute time scales. For example, in general we still do not know where auroral arcs map to in Earth's magnetotail, especially cases with multiple auroral arcs. Nevertheless, we can use unique phenomena for much more accurate mapping. [Nishimura+2010](https://doi.org/10.1126/science.1193186) and [Ozaki+2019](https://doi.org/10.1038/s41467-018-07996-z) show that correlating chorus wave amplitude with pulsating aurora is one way to validate mapping. Another way is to use electron and proton isotropy boundaries as tracers of the nightside transition region (NTR) between Earth's dipolar inner-magnetosphere and the magnetotail. In [Shumko+2025](https://mshumko.github.io/publications/shumko_2025/) we used a well-timed quadruple conjunction between THEMIS probes, TREx ASIs, ELFIN CubeSats, and a POES satellite to map the vibrant auroral bulge to the newly-dipolarized inner-magnetosphere.
 
-<img src="../images/20220904_0420_elfin_trex_conjunction.png" alt="ELFIN-TREx conjunction showing relativistic electrons above the auroral bulge" style="width:100%;"/>
+<video class="responsive-video" controls autoplay loop>
+  <source type="video/mp4" src="../images/2025gl116477-sup-0003-movie si-s02.mp4">
+</video>
 
-***A ELFIN-TREx conjunction showing relativistic electrons observed on field lines that also connected to the auroral bulge. Figure from [Shumko+2025](https://mshumko.github.io/publications/shumko_2025/).***
+***A ELFIN-TREx conjunction showing relativistic electrons observed on field lines that also connected to the auroral bulge. Animation from [Shumko+2025](https://mshumko.github.io/publications/shumko_2025/).***
 
 Looking forward, I plan to apply this mapping technique to multiple substorms to test the hypothesis that the auroral bulge maps to the NTR. In the ionosphere this region maps in between the proton and electron isotropy boundaries.
 
