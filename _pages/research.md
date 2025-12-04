@@ -33,20 +33,35 @@ Looking forward, I plan to study the relativistic microburst-pulsating aurora hy
 
 ***A timelapse of the aurora that I took right before the LAMP sounding rocket launched from Poker Flat, Alaska on 5 March 2022. A University of Calgary riometer antenna is in the foreground.***
 
-**Second Theme** is to map the auroral and energetic precipitation to their magnetospheric sources...
+**Second Theme: Using isotropy boundaries to map the aurora to its magnetospheric sources.** Mapping auroral forms to/from their magnetospheric sources is highly uncertain because Earth's night side magnetosphere dynamically evolves on minute time scales. For example, in general we still do not know where auroral arcs map to in Earth's magnetotail, especially cases with multiple auroral arcs. Nevertheless, we can use unique phenomena for much more accurate mapping. [Nishimura+2010](https://doi.org/10.1126/science.1193186) and [Ozaki+2019](https://doi.org/10.1038/s41467-018-07996-z) show that correlating chorus wave amplitude with pulsating aurora is one way to validate mapping. Another way is to use electron and proton isotropy boundaries as tracers of the nightside transition region (NTR) between Earth's dipolar inner-magnetosphere and the magnetotail. In [Shumko+2025](https://mshumko.github.io/publications/shumko_2025/) we used a well-timed quadruple conjunction between THEMIS probes, TREx ASIs, ELFIN CubeSats, and a POES satellite to map the vibrant auroral bulge to the newly-dipolarized inner-magnetosphere.
+
+<img src="../images/20220904_0420_elfin_trex_conjunction.png" alt="ELFIN-TREx conjunction showing relativistic electrons above the auroral bulge" style="width:100%;"/>
+
+***A ELFIN-TREx conjunction showing relativistic electrons observed on field lines that also connected to the auroral bulge. Figure from [Shumko+2025](https://mshumko.github.io/publications/shumko_2025/).***
+
+Looking forward, I plan to apply this mapping technique to multiple substorms to test the hypothesis that the auroral bulge maps to the NTR. In the ionosphere this region maps in between the proton and electron isotropy boundaries.
+
+<video class="responsive-video" controls autoplay loop>
+  <source type="video/mp4" src="../images/20220904_042300_042800_mosaic.mp4">
+</video>
+
+***A POES-TREx conjunction showing relativistic electrons observed on field lines that also connected to the auroral bulge. The proton isotropy boundary (middle-right panel) corresponds to the equatorward edge of the auroral bulge, while the electron isotropy boundary (top-right panel) corresponds to the poleward edge of the auroral bulge. Figure adapted from [Shumko+2025](https://mshumko.github.io/publications/shumko_2025/).***
 
 **Third Theme** is to understand the mechanisms that are responsible for plasma sheet electron acceleration to relativistic energies, and their subsequent scattering into Earth's atmosphere.
 
+TBD!
 
+
+**Advancing science through open-source software**
 <img src="../images/asilib_logo.png" alt="asilib python library logo" style="width:100%;"/>
 
 I am also working on my first comprehensive Python package called [asilib](https://aurora-asi-lib.readthedocs.io/). This project is the culmination of my learning journey to build a user-friendly library that allows a researcher to "easily download, plot, animate, and analyze auroral all sky imager (ASI) data." While working on this library I learned a whole lot including software engineering concepts as, simple software architecture, comprehensive tests, and useful documentation. Furthermore, I've learned a lot about the aurora and how it is analyzed. This work is deeply fulfilling, and I believe that we could use more software like this in space physics to reduce the barriers to entry for new scientists. They don't have to learn to do basic tasks including how to download or load the data: they can pip install `asilib` and immediately start working with auroral images.
 
 <video class="responsive-video" controls autoplay loop>
-  <source type="video/mp4" src="../images/20070220_proton_aurora_microbursts.mp4">
+  <source type="video/mp4" src="../images/20211104_trex_gps.mp4">
 </video>
 
-***The SAMPEX satellite observed energetic electron microbursts (the spikes in the bottom panel) while it orbited above proton aurora on 20 January 2007.***
+***Using asilib and clowncar to show the TREx ASIs with GPS CXD data, showing the arrival of relativistic electron fluxes concurrently to the "purple rain" reported by [Sorathia+2025](https://doi.org/10.1029/2025GL117469).***
 
 ## Probability Theory
 Besides analyzing time series and image data to study microbursts and curtain precipitation, I develop models to link data to reality---or our best understanding of reality.
